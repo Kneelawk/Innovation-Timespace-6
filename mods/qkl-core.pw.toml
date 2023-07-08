@@ -1,0 +1,9 @@
+name = "qkl-core"
+filename = "core-2.1.0+kt.1.8.22+flk.1.9.4.jar"
+side = "both"
+
+[download]
+url = "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-kotlin-libraries/core/2.1.0+kt.1.8.22+flk.1.9.4/core-2.1.0+kt.1.8.22+flk.1.9.4.jar"
+hash-format = "sha256"
+hash = "be5f4ee549944234892a4a6950398a01d9dd7002aaa9ab98e53b2ebd4709d89d"
+mode = ""

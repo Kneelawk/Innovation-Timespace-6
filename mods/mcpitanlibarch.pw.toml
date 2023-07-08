@@ -1,0 +1,13 @@
+name = "MCPitanLib"
+filename = "mcpitanlibarch-1.6.10-1.19.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uNRoUnGT/versions/4E75Vui8/mcpitanlibarch-1.6.10-1.19.2-fabric.jar"
+hash-format = "sha512"
+hash = "9480a8635ecf73cc609b31af840cf9e2abf838cd4593d842b7321cf370a282b39350897ef933385fc4164d919bccbaf939ad6e6c3881dc101ebbd70eba8d4f53"
+mode = ""
+
+[update.modrinth]
+mod-id = "uNRoUnGT"
+version = "4E75Vui8"

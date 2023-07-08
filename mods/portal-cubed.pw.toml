@@ -1,0 +1,13 @@
+name = "Portal Cubed"
+filename = "portal_cubed-2.3.0+alpha-rev.a5fa7af.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GUwDZ4ZU/versions/aT6VcSdc/portal_cubed-2.3.0%2Balpha-rev.a5fa7af.jar"
+hash-format = "sha512"
+hash = "b960a8fcdf9c58d7565fe9362ea47c3346ffd9becc4c352a38b0c34e464cd3f04a800445a0af7e41ff88057a29f6ed43d4d08cc37a8d545744362424f7e78fee"
+mode = ""
+
+[update.modrinth]
+mod-id = "GUwDZ4ZU"
+version = "aT6VcSdc"

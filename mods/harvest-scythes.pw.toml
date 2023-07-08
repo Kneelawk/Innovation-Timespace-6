@@ -1,0 +1,13 @@
+name = "Harvest Scythes"
+filename = "wraith-harvestscythes-2.5.4+mc1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TQyaHwzF/versions/bvYYiyj4/wraith-harvestscythes-2.5.4%2Bmc1.19.2.jar"
+hash-format = "sha512"
+hash = "9884fcf6e1f10c1a6e85fd41515bc2e05390c160dd9c70844d1814a0085dd42c850129b5bf175f6d89ca40b86fbe6407dc3b9a48fb8f392fbd68eafa3b9c5b8c"
+mode = ""
+
+[update.modrinth]
+mod-id = "TQyaHwzF"
+version = "bvYYiyj4"

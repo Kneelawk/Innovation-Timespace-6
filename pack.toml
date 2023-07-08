@@ -1,0 +1,17 @@
+name = "Innovation Timespace 6"
+author = "Kneelawk"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f073267963205cfbf684ef91209ea5f6ba291758fd5ad2c90a0bb7e0f5749857"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.19.2"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.1"]
+x-packvulcan-acceptable-loaders = ["fabric"]

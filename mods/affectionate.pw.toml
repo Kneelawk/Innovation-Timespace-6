@@ -1,0 +1,13 @@
+name = "Affectionate"
+filename = "affectionate-1.1.2+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VYOybYzW/versions/PEY2Juce/affectionate-1.1.2%2B1.19.jar"
+hash-format = "sha512"
+hash = "0b57a36b98395e2c50450cbd6ebdda4ec9325a3982e7844f8caec19d4c509c4f6e29caf7a940341b82a6704ff6d82467ed8e6512cd96b66bc5e781cd89eee304"
+mode = ""
+
+[update.modrinth]
+mod-id = "VYOybYzW"
+version = "PEY2Juce"

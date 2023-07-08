@@ -1,0 +1,13 @@
+name = "Extra Generators"
+filename = "extra-generators-1.2.1-BETA+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VXtwLg17/versions/1.2.1-BETA%2B1.19/extra-generators-1.2.1-BETA%2B1.19.jar"
+hash-format = "sha512"
+hash = "e045c33069f090adafd785a75a4472fb926961c60e625f660155b5352ffaf66734ae0ff89466b43e11713e4d7eb737de82f6a75494a19ec84218e9bf997f5901"
+mode = ""
+
+[update.modrinth]
+mod-id = "VXtwLg17"
+version = "2p7qWneI"

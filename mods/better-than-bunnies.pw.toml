@@ -1,0 +1,13 @@
+name = "Better Than Bunnies"
+filename = "BetterThanBunnies-1.19.2-Fabric-1.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xbR6jaoJ/versions/AK5n3xun/BetterThanBunnies-1.19.2-Fabric-1.3.0.jar"
+hash-format = "sha512"
+hash = "ddf5722691b7ce8e12a4ee1ad462a7a557fca2e1af592aff3bca9a1e14f73a0e5241919bb827d7aefb38bdeda15d6570f035d3baf8a7a05bc6d09fd7cb40075d"
+mode = ""
+
+[update.modrinth]
+mod-id = "xbR6jaoJ"
+version = "AK5n3xun"
