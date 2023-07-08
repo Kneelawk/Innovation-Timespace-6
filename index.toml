@@ -491,6 +491,11 @@ hash = "f081532078af62b003483fbd52e39d2a99656a7d11f4d3475b9207cc446e2354"
 metafile = true
 
 [[files]]
+file = "mods/lootr-fabric.pw.toml"
+hash = "2056cbbc69741580c892bcc238ca54ad61f568ba726beb7380c216ef58e17eee"
+metafile = true
+
+[[files]]
 file = "mods/lovely_snails.pw.toml"
 hash = "a013f02504549963cda319fb57aace6f4ebc279045acd4f0b427c85c8b959446"
 metafile = true
