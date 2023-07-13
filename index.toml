@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/blahaj.pw.toml"
-hash = "7f337c4b5ba8e78d3558331a4fdb0f7b520ec244f7f3dfd3ce87e00059ecf534"
+hash = "a214caecf8d1e73d837b7b9db8b01b5f9ae819fae3556bae37888041af93672e"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
-hash = "2056cbbc69741580c892bcc238ca54ad61f568ba726beb7380c216ef58e17eee"
+hash = "cef3df8ab33794bd21015a1b81afedbf43a98891c88c4f734b2b8edfbbc4fde9"
 metafile = true
 
 [[files]]
@@ -523,6 +523,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "a3d9f6d89ac6751138cb7cee21ebfc3ab23bd43bc96871500869bfe059193ba1"
+metafile = true
+
+[[files]]
+file = "mods/mixin-conflict-helper.pw.toml"
+hash = "3124dd2dcd39c89956db5a5526b592d8b0c2deab2759415f8c9d632642401bbb"
 metafile = true
 
 [[files]]
@@ -602,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/piercingpaxels.pw.toml"
-hash = "e30acd972727bd6b35b9097d2b47b03733b38c7f141006c5b5c24180ed1ddd9d"
+hash = "7b7df6cc54e3eacac3fc9bb72c411d252bec602e2a434e8f1c84924647acf2f5"
 metafile = true
 
 [[files]]
