@@ -29,14 +29,6 @@ file = "config/kibe.json"
 hash = "e15123e69ff212eba41e3be086fd39c3417841c2f82499a0bf3ec06ec468e91f"
 
 [[files]]
-file = "installers/Innovation Timespace 6 Server.tar.gz"
-hash = "50e7b81b26392628a9ffb24cdca60d64d470be590ab81d1cecc0d0721667124b"
-
-[[files]]
-file = "installers/Innovation Timespace 6.zip"
-hash = "0a3bc69e43d199ad497498271afb1749ef72520a3d9976b1d405448ee5aedaa6"
-
-[[files]]
 file = "mods/advanced-networking.pw.toml"
 hash = "0a70fe1f6b8a165df471738c2968d9ec3c820655aecd433c3ccf05e337a46da9"
 metafile = true
@@ -539,6 +531,11 @@ metafile = true
 [[files]]
 file = "mods/techreborn.pw.toml"
 hash = "9401fbe63cd21e8fe4baa2e6a0c73790d11eb12134124c6bb29cd94e760d2b71"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "d32cad899384b87dbdf59c61480f4cf5944c768a62e173145a84165b823285a0"
 metafile = true
 
 [[files]]
