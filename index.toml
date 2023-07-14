@@ -21,8 +21,17 @@ file = "config/fwaystones/config.json5"
 hash = "a83abf51980750e3081a375fdd0fe8cca154e17bef2c7fcc9d6980000b7f751e"
 
 [[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "13e5fdfdbe28acc6e94bed98d66b6b48114cc61d7f75565e11ca25e3a682811c"
+
+[[files]]
 file = "config/kibe.json"
 hash = "e15123e69ff212eba41e3be086fd39c3417841c2f82499a0bf3ec06ec468e91f"
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "ef1c3306c86042bb3764219c36217edbc62d3f970783a64a131d0f6e924eec1f"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -40,13 +49,28 @@ hash = "be9704ab8318d96960b6fabbe82fea92ac97965cd7edc508a6c4f64a9c0089bf"
 metafile = true
 
 [[files]]
+file = "mods/botania.pw.toml"
+hash = "77a01560d5655a5ce01722ec24a37ab65fd358bdc7135f9004985e1743690a87"
+metafile = true
+
+[[files]]
 file = "mods/cem.pw.toml"
 hash = "28b56f66a5f162d659eb72c50d02bf57cb611fc588cf68682669d9a8cfb64a23"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "39b9148e97c1fde9667a10eab68f0704d0100217cc9f2d60db6cdd70d4fe7f4d"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "2aaea7d97655ef94d49bade08b4e4436e2ce2cdd08a74ee57758b8996dc40b15"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "886f969e0f2a9fe1071021a823f6309872c5adb773cc4682523284091df92b3f"
 metafile = true
 
 [[files]]
@@ -115,6 +139,11 @@ hash = "90ca2b51932cd9adc32fd3d0137161d0cb26a5909fcc31c515c1f94d48257207"
 metafile = true
 
 [[files]]
+file = "mods/industrial-revolution.pw.toml"
+hash = "0b9b50e78e1b27e0ae65fb35c76577839e74f99cf81f6d5476a41ba7ebeb7385"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "00f40fa7b99dcf599254f4699f69f1fe6fe25ace4af4ae20e3611e243f9b838b"
 metafile = true
@@ -160,6 +189,16 @@ hash = "9858edcab39deac1be751a64224ad1b71ba7704fe71b7ed241690645fb6c5a02"
 metafile = true
 
 [[files]]
+file = "mods/modern-dynamics.pw.toml"
+hash = "610979394716d6019818f54e6790ec736c7aed2b0f39ede4bdd1d0d81834c001"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "4296e094f4e51bb6d1dd3e4b19ff0c19429a7f5f6a812c0ab208f8b3b6373083"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "bcae356eb0fb1cbb46c1ae76d8cdccc710a299b8041752b020e21dd379138ba4"
 metafile = true
@@ -170,8 +209,23 @@ hash = "1ad1516a4da101c8d83bb5db3c5eebe126c88c92dc16f528bf8a61f94f361dc6"
 metafile = true
 
 [[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "28f64613e14d3edb2cab573fd0ca583f9161e60ac842d01d50bb1d3b3cafa430"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "742860e31c50dae8d98ddb41b5c614a29855e3eab70fe6b3f72c3742080bb9b0"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "850239648ad5dd25c5676ffae231a384964d7b98a52172fd9e7b5923e1c8e769"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "e40da766569945c3f26beab9611e789a03a23e0187fa9afcda50aac858418620"
 metafile = true
 
 [[files]]
@@ -200,6 +254,11 @@ hash = "d41ec6bc213984eba6860b6131713fbb563df04b72055a79729737cf615f4187"
 metafile = true
 
 [[files]]
+file = "mods/revelationary.pw.toml"
+hash = "5d7f96ec48e310b871daad390a22f38955b786f03fb789ac00b514edb8bb1bd1"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "e250f93810a0eb4eee7308af74988719a55948671bc02a226854415dc8c40868"
 metafile = true
@@ -210,8 +269,23 @@ hash = "be7f21f314105a9eb6057b8f2c739b7fc3fd19a12a9925252beeb10200007d34"
 metafile = true
 
 [[files]]
+file = "mods/spectrum.pw.toml"
+hash = "fa393874abdb7507fb95801add724530c5e2be7a6329a0f6aa2332a638a56112"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "a9741e91b42c908a35c7802946cef79bda2c9ac0d3fe9fa9245f147d5e0fe8de"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.pw.toml"
+hash = "9401fbe63cd21e8fe4baa2e6a0c73790d11eb12134124c6bb29cd94e760d2b71"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "1791317097876ffb626130faf8d26bbfe5abaa3956f115db22a56c44b8c5b646"
 metafile = true
 
 [[files]]
