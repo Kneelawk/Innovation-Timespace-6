@@ -1,0 +1,13 @@
+name = " Paradise Lost"
+filename = "paradise-lost-2.1.0-beta+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IKpsG0nF/versions/PsfQzXbw/paradise-lost-2.1.0-beta%2B1.19.2.jar"
+hash-format = "sha512"
+hash = "cfdf9418a1f4d4961d4c12b437b1feae7bf43fc5bfbcd655a6244eaed4a800afc418fe1beb8fcfc0842003b07b81c4cdba24a6142590550aaccef0088f329793"
+mode = ""
+
+[update.modrinth]
+mod-id = "IKpsG0nF"
+version = "PsfQzXbw"
