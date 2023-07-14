@@ -89,6 +89,11 @@ hash = "6335810d7936894ef1ae0422123e40f5b31ebc4c2939628ce6fc731f24b791dc"
 metafile = true
 
 [[files]]
+file = "mods/coxinha-utilities.pw.toml"
+hash = "9f60f37a40b365ec91e856ffd9d0c560b60680cd63e07c4d9458d91f3008bfc7"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "886f969e0f2a9fe1071021a823f6309872c5adb773cc4682523284091df92b3f"
 metafile = true
@@ -176,6 +181,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "f33d86f0cf79d78e0018ce22b09c7d2777ff86c36392fd8c2166951aa331080d"
+metafile = true
+
+[[files]]
+file = "mods/kibe.pw.toml"
+hash = "5fbe934a78fb437386b73b3cad10f3815efd15bcc41afdcb02a0ee83cb7dc7f6"
 metafile = true
 
 [[files]]
