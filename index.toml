@@ -195,11 +195,6 @@ hash = "bb34283f228d23d1e862f2c48ad10d76992bc40a561de862bcb2274affa84271"
 metafile = true
 
 [[files]]
-file = "mods/cccbridge.pw.toml"
-hash = "cf5cd851e044785886d240bfca9191288bc469747a80d6999aa50e1be711fba6"
-metafile = true
-
-[[files]]
 file = "mods/cem.pw.toml"
 hash = "28b56f66a5f162d659eb72c50d02bf57cb611fc588cf68682669d9a8cfb64a23"
 metafile = true
