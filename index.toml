@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bclib/client.json"
+hash = "475b6b023aaed34c8710f8986b0d7161a89d0b5cdb14b1f38fbdaf114fc7ec94"
+
+[[files]]
+file = "config/betteradvancements.json"
+hash = "48c15341ae15ad1714b58fdc69a741164f0f610a76fdba1a650657d8d078d965"
+
+[[files]]
+file = "config/byg/biomepedia.json5"
+hash = "59d8aaa08065c8c7fb737ad292932f38a890050028faf27f29d422016901cb5e"
+
+[[files]]
+file = "config/emi.css"
+hash = "90cdf8be7aaac78df13d4449ea281eea8e05bde5e6c8e541f45fb11b233a333b"
+
+[[files]]
+file = "config/fwaystones/config.json5"
+hash = "a83abf51980750e3081a375fdd0fe8cca154e17bef2c7fcc9d6980000b7f751e"
+
+[[files]]
+file = "config/kibe.json"
+hash = "e15123e69ff212eba41e3be086fd39c3417841c2f82499a0bf3ec06ec468e91f"
+
+[[files]]
 file = "mods/advanced-networking.pw.toml"
 hash = "0a70fe1f6b8a165df471738c2968d9ec3c820655aecd433c3ccf05e337a46da9"
 metafile = true
