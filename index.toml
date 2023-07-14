@@ -159,6 +159,11 @@ hash = "28b56f66a5f162d659eb72c50d02bf57cb611fc588cf68682669d9a8cfb64a23"
 metafile = true
 
 [[files]]
+file = "mods/chefs-delight.pw.toml"
+hash = "87373141977edc891e8e0a5911671e57017aca5fecf88812e87953913e7b9e0a"
+metafile = true
+
+[[files]]
 file = "mods/cinderscapes.pw.toml"
 hash = "eb172bbe899d7bb967e77a36eafa61ff67bcfeac8ad79d7475e1448bb60e494a"
 metafile = true
@@ -209,6 +214,11 @@ hash = "bc118c14d9c199a6eb165e2c94f3100d64397904e5df850e72350955b4f14cdd"
 metafile = true
 
 [[files]]
+file = "mods/delightdulcreators.pw.toml"
+hash = "a863ab9262b7ebfd8c00d27ba3456182881177a2bbba73968bf9166a6e1d535d"
+metafile = true
+
+[[files]]
 file = "mods/diggus-maximus.pw.toml"
 hash = "196201f3343d2643abc85a45e7bc4680b88b71b76984b9928e7acbdaa80e1e9b"
 metafile = true
@@ -244,6 +254,11 @@ hash = "e5792aa5291c110ce5b20fc16953c1993163f60ae264c9c7b13b85b72bbf4130"
 metafile = true
 
 [[files]]
+file = "mods/emi_farmersdelight.pw.toml"
+hash = "a556ea5280ab3c9625de07a26397066172958ed6b027ea19e75f2f4ca249b136"
+metafile = true
+
+[[files]]
 file = "mods/emicompat.pw.toml"
 hash = "3732823031a918f665926f9c33f781a7c4363943a8a0cbbb6ae733453bdfafbe"
 metafile = true
@@ -276,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "fcd453aac5a23886f98c56a4f9fdf4570b1f445ad58e564dda25b295c2855174"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "39c9546b848c754b08ef15177635decc11a8ec5610e2e272d481b1b753161e68"
 metafile = true
 
 [[files]]
