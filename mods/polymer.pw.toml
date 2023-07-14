@@ -1,0 +1,13 @@
+name = "Polymer"
+filename = "polymer-all-0.2.28+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xGdtZczs/versions/dxCqgrBp/polymer-all-0.2.28%2B1.19.2.jar"
+hash-format = "sha512"
+hash = "4322578eb9a1c96c41a36921439064384cc90ca8cfd70c585d3ea330e11856eab77c6e642942b8233ebf82959bcff36f564b166c23ddb886063a134958661f30"
+mode = ""
+
+[update.modrinth]
+mod-id = "xGdtZczs"
+version = "dxCqgrBp"
