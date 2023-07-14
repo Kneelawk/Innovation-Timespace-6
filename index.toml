@@ -25,6 +25,161 @@ file = "config/kibe.json"
 hash = "e15123e69ff212eba41e3be086fd39c3417841c2f82499a0bf3ec06ec468e91f"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "1659cabf2741c3cfbd78fb9cff3329e76ec23ea61e140c86d84714b55f7ba4bd"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "0170bc5ba39cf73c662117788bd37161b3d2c4c8412914d914991fcbe689e7b1"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "be9704ab8318d96960b6fabbe82fea92ac97965cd7edc508a6c4f64a9c0089bf"
+metafile = true
+
+[[files]]
+file = "mods/cem.pw.toml"
+hash = "28b56f66a5f162d659eb72c50d02bf57cb611fc588cf68682669d9a8cfb64a23"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "2aaea7d97655ef94d49bade08b4e4436e2ce2cdd08a74ee57758b8996dc40b15"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "cd2fa39f457198956b526cb25295e2687149966c6bdb1dbed6558ea50fb77bdc"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "895848b2609e7a5a4610192152896cb11b0b8b1587d0d9c2a56379447393a159"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "d13790c42d31cceb39e740585bc66f0dfb19909ae653058378f2d7d19a1fad47"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "e5792aa5291c110ce5b20fc16953c1993163f60ae264c9c7b13b85b72bbf4130"
+metafile = true
+
+[[files]]
+file = "mods/emicompat.pw.toml"
+hash = "3732823031a918f665926f9c33f781a7c4363943a8a0cbbb6ae733453bdfafbe"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "51601c58be9e42c88aa300f31c8bc60cd6d464b3b86fe83fc5c6a41b2aed798f"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "3bd3480460e036ee75d31269bf75514f686342594d0de98ce5d9c7967ae67a92"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "203b82b887768c9a27473b0da8ab102c28f0b55b484a62132f1457de7c839efc"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "fcd453aac5a23886f98c56a4f9fdf4570b1f445ad58e564dda25b295c2855174"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "318a04cfbd9b5b7aa1cee959d203b73d38629c0a7e260d53b369d0ef865c87b7"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "f9e68f485e5bdbf60cd22ff462b52a1a32df7457d54cb4e8a358bc9b4cf92bb3"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "20c8a9552dd75cd37682b67479ddfcccf76a6d4a38f60c7023fb33dda5addbc9"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "90ca2b51932cd9adc32fd3d0137161d0cb26a5909fcc31c515c1f94d48257207"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "00f40fa7b99dcf599254f4699f69f1fe6fe25ace4af4ae20e3611e243f9b838b"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "f33d86f0cf79d78e0018ce22b09c7d2777ff86c36392fd8c2166951aa331080d"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "0ca25ee189dfd425ae514b99cf1e0fe2cc6330b9923bc464ab44a4f24af06969"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "3138c752217d6937eae3c590aceacd55791458421ca12ab42e6da075ea244b46"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "b02c9aeb1210ab0c82e8798993252cdfb8236903c3874395e8692e8f50c4eab6"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "eb62fcaf9d548ea322db7b7f56f84793ad72d146bf12d10e555e36c554ff093f"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "aea553e6a91662a82f4ea1cd8306cfbb88573e9f0429a73ad76331a10d65e874"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "f081532078af62b003483fbd52e39d2a99656a7d11f4d3475b9207cc446e2354"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "9858edcab39deac1be751a64224ad1b71ba7704fe71b7ed241690645fb6c5a02"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "bcae356eb0fb1cbb46c1ae76d8cdccc710a299b8041752b020e21dd379138ba4"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "1ad1516a4da101c8d83bb5db3c5eebe126c88c92dc16f528bf8a61f94f361dc6"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "742860e31c50dae8d98ddb41b5c614a29855e3eab70fe6b3f72c3742080bb9b0"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "e3d701958b3e93b0fd39da14733c3aa738b213f30851a0c471bc13f762b671c2"
+metafile = true
+
+[[files]]
 file = "mods/qkl-core.pw.toml"
 hash = "f985bfdcf040ecc93240a8b0dc874aa63f39cbb336544c2694b7c6ddb82235e4"
 metafile = true
@@ -36,5 +191,40 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
+hash = "0dee30cecdf16ce3dcb594088ae9691909500c24157cfae4b1c0a04e1213f13a"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "d41ec6bc213984eba6860b6131713fbb563df04b72055a79729737cf615f4187"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "e250f93810a0eb4eee7308af74988719a55948671bc02a226854415dc8c40868"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "be7f21f314105a9eb6057b8f2c739b7fc3fd19a12a9925252beeb10200007d34"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "a9741e91b42c908a35c7802946cef79bda2c9ac0d3fe9fa9245f147d5e0fe8de"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "7fa79961fc5ccc81b185e5489ebdcc81c9e50122b6bb8e202b580aba4cc56c66"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "778af064310bef8f64cce79391fdb79926331c7ee9102e4d675066827564d9e4"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "c9204024cc8bd0f6d8bb052494c3401524e55aba0bfd69bd2f2f1a071dbf32f3"
 metafile = true
