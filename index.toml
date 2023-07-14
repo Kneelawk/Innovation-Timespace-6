@@ -29,6 +29,11 @@ file = "config/kibe.json"
 hash = "e15123e69ff212eba41e3be086fd39c3417841c2f82499a0bf3ec06ec468e91f"
 
 [[files]]
+file = "mods/advancements-debug.pw.toml"
+hash = "2f19835ebbe4c19c0c887e9ca7635fb7463b6ab81835504bbc7c497147018f79"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ef1c3306c86042bb3764219c36217edbc62d3f970783a64a131d0f6e924eec1f"
 metafile = true
@@ -41,6 +46,16 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "0170bc5ba39cf73c662117788bd37161b3d2c4c8412914d914991fcbe689e7b1"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "0d27bbd812fcb3753247a5c1097e762c46cafb4897b6b0975172a65dcc917e2d"
+metafile = true
+
+[[files]]
+file = "mods/better-log4j-config.pw.toml"
+hash = "1279571b1f32d1ca7a7f1c2d940219d42f9161d76225eeff0584409aeece47e0"
 metafile = true
 
 [[files]]
@@ -69,8 +84,18 @@ hash = "2aaea7d97655ef94d49bade08b4e4436e2ce2cdd08a74ee57758b8996dc40b15"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "6335810d7936894ef1ae0422123e40f5b31ebc4c2939628ce6fc731f24b791dc"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "886f969e0f2a9fe1071021a823f6309872c5adb773cc4682523284091df92b3f"
+metafile = true
+
+[[files]]
+file = "mods/diggus-maximus.pw.toml"
+hash = "196201f3343d2643abc85a45e7bc4680b88b71b76984b9928e7acbdaa80e1e9b"
 metafile = true
 
 [[files]]

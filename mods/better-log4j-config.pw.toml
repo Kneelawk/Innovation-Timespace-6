@@ -1,0 +1,13 @@
+name = "Better Log4j Config"
+filename = "better_log4j_config-1.1.0-quilt.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6gLXkYZq/versions/obXVxKl5/better_log4j_config-1.1.0-quilt.jar"
+hash-format = "sha512"
+hash = "99ceda9008d982cdd7d7df691fc2ba922ae74d1d992ae1b24a3238e0c453fcb91e99dea97f5e6dd5720f454cd43e5bf85898f7e626d8ecf683b7aea575c4990a"
+mode = ""
+
+[update.modrinth]
+mod-id = "6gLXkYZq"
+version = "obXVxKl5"
