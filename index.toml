@@ -114,6 +114,11 @@ hash = "77a01560d5655a5ce01722ec24a37ab65fd358bdc7135f9004985e1743690a87"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "ec04966971e98e6e4a069811495dc145472c4dc487a45f33ed850a929d3cb3b4"
+metafile = true
+
+[[files]]
 file = "mods/building-wands.pw.toml"
 hash = "1d8830785f6a538dd6006ac439076af2ad5a0bbd158ad9f1272d4a428eb9ec6d"
 metafile = true
@@ -244,6 +249,11 @@ hash = "20c8a9552dd75cd37682b67479ddfcccf76a6d4a38f60c7023fb33dda5addbc9"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "36dd1830804eba8e06ae9622fa1bcaae141e0a1e2c56f2b3f0366a226ffa5f23"
+metafile = true
+
+[[files]]
 file = "mods/ijo-pona-poki.pw.toml"
 hash = "800e05ee83d2a17de9f3eb335e56c216b63e23b9baf64089cc22e49d750bb91c"
 metafile = true
@@ -256,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/industrial-revolution.pw.toml"
 hash = "0b9b50e78e1b27e0ae65fb35c76577839e74f99cf81f6d5476a41ba7ebeb7385"
+metafile = true
+
+[[files]]
+file = "mods/inmis.pw.toml"
+hash = "e9a8593dcc9dc373699eed3319484bf3418fc5fcb4db8f7906767a725a0b3843"
 metafile = true
 
 [[files]]
@@ -379,6 +394,11 @@ hash = "e40da766569945c3f26beab9611e789a03a23e0187fa9afcda50aac858418620"
 metafile = true
 
 [[files]]
+file = "mods/piercingpaxels.pw.toml"
+hash = "7b7df6cc54e3eacac3fc9bb72c411d252bec602e2a434e8f1c84924647acf2f5"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "e3d701958b3e93b0fd39da14733c3aa738b213f30851a0c471bc13f762b671c2"
 metafile = true
@@ -404,8 +424,18 @@ hash = "0dee30cecdf16ce3dcb594088ae9691909500c24157cfae4b1c0a04e1213f13a"
 metafile = true
 
 [[files]]
+file = "mods/reaper.pw.toml"
+hash = "06e5cd84c49d36e4429bc1454c4386a89d87739b4c9e2d2fc53f48ea0bf13bec"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "d41ec6bc213984eba6860b6131713fbb563df04b72055a79729737cf615f4187"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c89395cb87723d53372ea7f3d7c909b6458e25df2906bb16047b15b0f828c787"
 metafile = true
 
 [[files]]
@@ -434,6 +464,11 @@ hash = "fa393874abdb7507fb95801add724530c5e2be7a6329a0f6aa2332a638a56112"
 metafile = true
 
 [[files]]
+file = "mods/spirit.pw.toml"
+hash = "8a726d594f2ba51f0d9afc223914e1fd2230d1bb4b1f1fa1fae482cedef5e58e"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "a9741e91b42c908a35c7802946cef79bda2c9ac0d3fe9fa9245f147d5e0fe8de"
 metafile = true
@@ -451,6 +486,16 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "1791317097876ffb626130faf8d26bbfe5abaa3956f115db22a56c44b8c5b646"
+metafile = true
+
+[[files]]
+file = "mods/villagersplus.pw.toml"
+hash = "1722750aa622c51886b44c3b218375f0ac70e67ec09580d2912bdb75a36f8a7b"
+metafile = true
+
+[[files]]
+file = "mods/vitalize.pw.toml"
+hash = "cad79f04998c7f31d74e0dc7afc7cc14401eb2733823afb750edc8a11a86c268"
 metafile = true
 
 [[files]]
