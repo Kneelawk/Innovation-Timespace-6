@@ -564,11 +564,6 @@ hash = "0b5b37b1c8846fa2789900dc284984d689dba44361ad20136ae90bc39f44519d"
 metafile = true
 
 [[files]]
-file = "mods/simple-pipes.pw.toml"
-hash = "c614289c06de78b454abbcda0bac186a1c909fc3d67851c41eaa62b98b73f7a0"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "e250f93810a0eb4eee7308af74988719a55948671bc02a226854415dc8c40868"
 metafile = true
