@@ -114,6 +114,11 @@ hash = "1279571b1f32d1ca7a7f1c2d940219d42f9161d76225eeff0584409aeece47e0"
 metafile = true
 
 [[files]]
+file = "mods/bewitchment.pw.toml"
+hash = "009e6df0c8b7b8a4b66482c7ab57b1a3da548c408fba321ddb1569d6cb4fae25"
+metafile = true
+
+[[files]]
 file = "mods/biome-makeover.pw.toml"
 hash = "892edc2371f0ade70a1cba40c5588cc40a3c4c45eb32135b2b7cc6052ea2eb5f"
 metafile = true
@@ -501,6 +506,11 @@ metafile = true
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "06c01ab2c538cc5f37c184768a2094c07237843122df5e82e9eb371c483ac57c"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "d46a3fac2fdeb35c27e7245fa162ccde40dd449dbe4812d162c13d95d742ccc3"
 metafile = true
 
 [[files]]
